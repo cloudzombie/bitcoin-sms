@@ -1,0 +1,127 @@
+<div class="page">
+
+    <div class="content content--page">
+
+        <div class="page__title-container">
+            <h1 class="page__title">Dashboard</h1>
+            <hr class="page__hr" />
+        </div>
+
+        <div class="container dashboard">
+
+            <section class="page__section--dashboard-api-keys">
+
+                <h2 class="heading__title">API Keys</h2>
+
+                <div class="container dashboard__api-keys">
+
+                    {{#if user.apiKeys.items }}
+                        {{#each user.apiKeys.items}}
+                            <div class="api-key">
+                                <div class="api-key__id">
+                                    <span class="label">ID</span>
+                                    <span>{{this.id}}</span>
+                                </div>
+                                <div class="api-key__secret">
+                                    <span class="label">Secret</span>
+                                    <span>{{this.secret}}</span>
+                                </div>
+                            </div>
+                        {{/ each}}
+                    {{else}}
+                        <div class="no-key">
+                            <p>
+                                Your API keys will appear here after you <a href="{{ user.apiKeys.href }}">create them on Stormpath.</a>
+                            </p>
+                        </div>
+                    {{/if }}
+                </div>
+
+            </section>
+
+            <section class="page__section--dashboard-widgets">
+
+                <h2 class="heading__title">Widgets</h2>
+
+                <div class="container dashboard__widgets">
+
+                    <section class="db-widget db-widget--analytics">
+                        <header class="db-widget__header">Analytics</header>
+
+                        <div class="db-widget__content">
+                            <div class="db-widget__primary-stat">
+                                <span>{{user.customData.totalQueries}}<span>
+                                <i class="subtitle">*total queries</i>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section class="db-widget db-widget--billing">
+                        <header class="db-widget__header">Billing</header>
+
+                        <div class="db-widget__content">
+                            <div class="db-widget__primary-stat">
+                                <span class="current-balance">{{ dollarsToCurrency user.customData.balance }}<span>
+                                <i class="subtitle">*Current account balance</i>
+                            </div>
+
+                            <form class="form" id="payment-form" autocomplete="on" role="form" action="/dashboard/charge" method="POST">
+
+
+                                <div class="form__group input">
+                                    <div class="input__container input__container--slider">
+                                        <label for="added-funds">Add Funds ($USD)</label>
+                                        <input id="added-funds"
+                                               name="addedFunds"
+                                               type="range"
+                                               min="5"
+                                               value="20"
+                                               step="1">
+                                        <output for="added-funds" id="added-funds--output">20</output>
+                                    </div>
+                                </div>
+
+                                <div class="form__group">
+                                    <button type="submit"
+                                            class="button button__submit--payment"
+                                            id="add-funds-button">
+                                        Pay With Card
+                                    </button>
+                                </div>
+
+                                <input style="display:none;" name="stripePk" id="add-funds--stripe-pk" value="{{stripePublishableKey}}">
+                                <input style="display:none;" name="stripeToken" id="add-funds--stripe-token">
+
+
+                                {{!--
+                                <script class="stripe-button"
+                                        data-email="{{user.email}}"
+                                        data-key="{{stripePublishableKey}}"
+                                        data-name="{{siteTitle}}"
+                                        data-amount="2000"
+                                        data-description="SMS Billing"
+                                        data-allow-remember-me="false"
+                                        src="https://checkout.stripe.com/checkout.js">
+                                </script>
+                                --}}
+
+
+                            </form>
+                        </div>
+                        <footer class="db-widget__footer">
+                            <span class="db-widget__alert"></span>
+                        </footer>
+                    </section>
+
+                </div>
+            </section>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+<script src="https://checkout.stripe.com/checkout.js"></script>
+<script src="/app/js/dashboard.js"></script>

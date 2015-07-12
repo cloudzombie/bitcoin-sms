@@ -1,0 +1,208 @@
+@import 'application';
+
+// TODO: Import our views
+//@import 'views/intro';
+//@import 'views/pricing';
+//@import 'views/docs';
+
+.intro {
+
+  .heading {
+    color: $font-color__secondary-text--black-on-light-background;
+  }
+
+  .panel__img--instruction-1 {
+    background-image: url('/assets/img/intro--step-1.svg');
+  }
+  .panel__img--instruction-2 {
+    background-image: url('/assets/img/intro--step-2.svg');
+  }
+  .panel__img--instruction-3 {
+    background-image: url('/assets/img/intro--step-3.svg');
+  }
+  .panel__img--instruction-4 {
+    background-image: url('/assets/img/intro--step-4.svg');
+  }
+
+}
+
+.pricing {
+  font-size: 2.0rem;
+  text-align: center;
+
+  p {
+    line-height: 2em;
+  }
+
+  .pricing__price {
+    text-align: center;
+    font-size: 4.2rem;
+  }
+  .pricing__description {
+    margin: 3.1em auto;
+    color: $font-color__secondary-text--black-on-light-background;
+  }
+  .pricing__register-btn {
+    margin: 0 auto;
+  }
+}
+
+.docs {
+
+  color: $font-color__secondary-text--black-on-light-background;
+
+  .docs__overview {
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    flex-wrap: wrap;
+  }
+
+  [class*="overview__"] {
+    margin: 0 1em;
+  }
+
+  .overview__help-links {
+    position: absolute;
+    width: 15.5em;
+    height: 7em;
+    padding: 1em;
+    right: 1em;
+    bottom: 3.3em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+    .heading__title {
+      color: $font-color__primary-text--white-on-dark-background;
+      margin-top: 0;
+      margin-bottom: 0;
+      text-align: center;
+    }
+  }
+
+  .subtitle {
+    text-align: center;
+  }
+
+  .docs__routes {
+    text-align: left;
+    padding: 2em;
+    font-weight: 100;
+
+    .docs__group-header {
+      font-size: 3.5rem;
+      text-align: center;
+    }
+
+    .docs__item-section {
+      margin-bottom: 2.5em;
+    }
+
+    .docs__item-heading {
+      font-size: 3.5rem;
+      border-bottom: 1px solid hsla(0, 0%, 0%, 0.29);
+    }
+
+    .heading__title {
+      font-size: 2.5rem;
+      margin-top: 1em;
+      color: $font-color__secondary-text--black-on-light-background;
+    }
+
+    .docs__table-container {
+      padding: 0 1.2em;
+      text-align: center;
+      margin-bottom: 3em;
+    }
+
+    .table {
+      col {
+        &:nth-child(1) {
+          width: 39%;
+        }
+        &:nth-child(2) {
+          width: 16%;
+        }
+        &:nth-child(3) {
+          width: 45%;
+        }
+      }
+    }
+
+    .docs__pre-container {
+      width: 60%;
+    }
+
+    .table,
+    .pre {
+      margin-top: 2rem;
+      margin-bottom: 1.75rem;
+    }
+  }
+
+  @media screen and (max-width: #{(map_get($map__breakpoint-sizes, 'medium'))}) {
+
+    .docs__overview {
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    /* Bring this under the description as the second item in the flex container */
+    .overview__help-links {
+      position: relative;
+      bottom: 0;
+      right: 0;
+    }
+
+    .docs__pre-container {
+      width: 80%;
+    }
+  }
+}
+
+
+.dashboard {
+
+  color: $font-color__secondary-text--black-on-light-background;
+
+  .heading__title {
+    color: $font-color__secondary-text--black-on-light-background;
+  }
+
+  .dashboard__widgets {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  .button__submit--payment {
+    width: inherit;
+    max-width: 100%;
+  }
+
+  form {
+    margin-top: 1em;
+  }
+
+
+
+  @media screen and (max-width: #{(map_get($map__breakpoint-sizes, 'db-widgets'))}) {
+    .dashboard__widgets {
+      flex-direction: column;
+
+      .db-widget {
+        margin: 1.5em 1em;
+        width: 65%;
+      }
+    }
+  }
+
+}
+

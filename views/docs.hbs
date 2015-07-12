@@ -1,0 +1,165 @@
+<div class="page">
+
+    <div class="content content--page">
+
+        <div class="page__title-container">
+            <h1 class="page__title">API Documentation</h1>
+            <hr class="page__hr" />
+        </div>
+
+        <div class="docs">
+
+            <section class="page__section--docs-overview">
+
+                <div class="container docs__overview">
+
+                    <div class="overview__description">
+                        <p>Welcome to our API documentation! There's currently only one route supported, so you should find it fairly short.</p>
+                    </div>
+
+                    <div class="overview__help-links content highlight-box">
+
+                        <div class="content__heading-container">
+                            <h3 class="heading__title">Questions?</h3>
+                            <span class="subtitle"> Hit up our <a href="mailto:bsipple57@gmail.com">support team</a></span>
+                        </div>
+
+                        <div class="content__heading-container">
+                            <h3 class="heading__title">Issues or Suggestions?</h3>
+                            <span class="subtitle">Submit them to <a href="https://github.com/BrianSipple/bitcoin-sms/issues">GitHub</a></span>
+                        </div>
+
+                    </div>
+                </div>
+
+            </section>
+
+            <section class="page__section--docs-items">
+
+                <div class="docs__routes">
+                    <h2 class="docs__group-header">REST Endpoints</h2>
+
+
+                    <p class="docs__item-heading">POST /api/message</p>
+
+                    <span class="heading__title">Description</span>
+
+                    <div class="docs__item-section">
+                        <p class="docs__item-description">
+                            This API endpoint takes in a phone number, and sends this phone an
+                            SMS message with the current Bitcoin exchange rate.
+                        </p>
+                    </div>
+
+                    <div class="docs__item-section">
+                        <span class="heading__title">Input</span>
+                        <div class="docs__table-container">
+                            <table class="table">
+                                <colgroup>
+                                    <col>
+                                    <col>
+                                    <col>
+                                </colgroup>
+                                <thead valing="bottom">
+                                    <tr>
+                                        <th>Field</th>
+                                        <th>Type</th>
+                                        <th>Required</th>
+                                    </tr>
+                                </thead>
+                                <tbody valign="top">
+                                    <tr>
+                                        <td>phoneNumber</td>
+                                        <td>String</td>
+                                        <td>True</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="docs__item-section">
+                        <span class="heading__title">Success Output</span>
+                        <div class="docs__table-container">
+                            <table class="table">
+                                <colgroup>
+                                    <col>
+                                    <col>
+                                    <col>
+                                </colgroup>
+                                <thead valign="bottom">
+                                    <tr>
+                                        <th>Field</th>
+                                        <th>Type</th>
+                                        <th>Example</th>
+                                    </tr>
+                                </thead>
+                                <tbody valign="top">
+                                    <tr>
+                                        <td>phoneNumber</td>
+                                        <td>String</td>
+                                        <td>"+18182223333"</td>
+                                    </tr>
+                                    <tr>
+                                        <td>message</td>
+                                        <td>String</td>
+                                        <td>"1 Bitcoin is currently worth $225.42 USD."</td>
+                                    </tr>
+                                    <tr>
+                                        <td>cost</td>
+                                        <td>Integer</td>
+                                        <td>{{costPerQuery}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="docs__item-section">
+                        <span class="heading__title">Failure Output</span>
+                        <div class="docs__table-container">
+                            <table class="table">
+                                <colgroup>
+                                    <col>
+                                    <col>
+                                    <col>
+                                </colgroup>
+                                <thead valign="bottom">
+                                    <tr>
+                                        <th>Field</th>
+                                        <th>Type</th>
+                                        <th>Example</th>
+                                    </tr>
+                                </thead>
+                                <tbody valign="top">
+                                    <tr>
+                                        <td>error</td>
+                                        <td>String</td>
+                                        <td>"We couldn't send the SMS message. Try again soon!"</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        </div>
+
+                        <div class="docs__item-section">
+                        <span class="heading__title">Example Request</span>
+                        <div class="docs__pre-container">
+
+                            <pre class="pre">
+
+                                <span class="p">$ curl -X POST \</span>
+                                <span class="p">--user 'id:secret' \</span>
+                                <span class="p">--data '{"phoneNumber": "+18182223333"}' \</span>
+                                <span class="p">-H 'Content-Type: application/json' \</span>
+                                <span class="p">'http://apiservice.com/api/message'</span>
+                            </pre>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+
+        </div>
+    </div>
+</div>

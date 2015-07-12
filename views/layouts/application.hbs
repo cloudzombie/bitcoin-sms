@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>{{appTitle}}</title>
+        <meta name="description" content="neFARious">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+        <link rel="stylesheet" href="/app/styles/normalize.css">
+        <link rel="stylesheet" href="/app/styles/main.css">
+
+        <script src="/vendor/modernizer/modernizr.js"></script>
+
+    </head>
+    <body>
+
+        <div class="master-wrapper">
+
+            {{> core/sidenav }}
+            {{> core/navbar }}
+
+
+            {{{body}}}
+
+            {{> core/footer }}
+
+        </div>
+
+    </body>
+</html>

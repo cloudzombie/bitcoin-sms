@@ -1,0 +1,21 @@
+<div class="toolbar navbar">
+    <div class="toolbar__items">
+
+        <div class="navbar__logo">
+            <a href="/">{{siteTitle}}</a>
+        </div>
+
+        {{!-- TODO: Add svg hamburger icon to toggle a sidenav (TODO: sidenav)
+        <svg class="navbar__sidenav-toggle"></svg>
+        --}}
+
+        <div class="navbar__links">
+
+            {{#each navLinks}}
+                <span class="{{this.class}}"><a href="{{this.href}}">{{this.title}}</a></span>
+            {{/each}}
+
+        </div>
+
+    </div>
+</div>
