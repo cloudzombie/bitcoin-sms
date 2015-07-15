@@ -50,3 +50,13 @@
     font-size: 2.0rem;
     position: relative;
 }
+
+/**
+ * Default helper styles when displaying an image via
+ * the background-image property
+ */
+%background-image-display {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

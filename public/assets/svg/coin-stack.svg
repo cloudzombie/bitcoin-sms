@@ -1,0 +1,1159 @@
+<svg id="coin-stacks-layer" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 153 181.9">
+  <g id="coin-stacks">
+    <g id="coin-stack-shadow">
+      <path id="XMLID_25_" fill="none" stroke="#A5731E" stroke-width="5.07" stroke-miterlimit="10" d="M81.5 179.3c-20.3 0-34-5.5-34-10.6s13.7-10.6 34-10.6 34 5.5 34 10.6-13.6 10.6-34 10.6z"/>
+    </g>
+    <g id="coin-stack-shadow_2_">
+      <path id="XMLID_44_" fill="none" stroke="#A5731E" stroke-width="5.07" stroke-miterlimit="10" d="M116.5 152.3c-20.3 0-34-5.5-34-10.6s13.7-10.6 34-10.6 34 5.5 34 10.6-13.6 10.6-34 10.6z"/>
+    </g>
+    <g id="coin-stack-shadow_1_">
+      <path id="XMLID_27_" fill="none" stroke="#A5731E" stroke-width="5.07" stroke-miterlimit="10" d="M36.5 159.3c-20.3 0-34-5.5-34-10.6s13.7-10.6 34-10.6 34 5.5 34 10.6-13.6 10.6-34 10.6z"/>
+    </g>
+    <g id="coin_1_">
+      <g id="XMLID_750_">
+        <g id="XMLID_760_">
+          <g id="XMLID_764_">
+            <linearGradient id="XMLID_28_" gradientUnits="userSpaceOnUse" x1="81.691" y1="133.559" x2="151.692" y2="133.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_767_" fill="url(#XMLID_28_)" d="M116.7 124.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_766_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M116.7 141.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_765_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M116.7 124.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_761_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_763_" d="M116.5 151.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_762_" d="M151.5 134.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_1_" gradientUnits="userSpaceOnUse" x1="81.522" y1="142.834" x2="151.647" y2="142.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_92_" fill="url(#rim_1_)" stroke="#CE8E20" stroke-miterlimit="10" d="M151.5 133.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_707_">
+        <g id="XMLID_717_">
+          <g id="XMLID_729_">
+            <linearGradient id="XMLID_41_" gradientUnits="userSpaceOnUse" x1="81.691" y1="123.559" x2="151.692" y2="123.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_732_" fill="url(#XMLID_41_)" d="M116.7 114.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_731_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M116.7 131.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_730_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M116.7 114.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_718_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_727_" d="M116.5 141.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_725_" d="M151.5 124.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_5_" gradientUnits="userSpaceOnUse" x1="81.522" y1="132.834" x2="151.647" y2="132.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_87_" fill="url(#rim_5_)" stroke="#CE8E20" stroke-miterlimit="10" d="M151.5 123.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_664_">
+        <g id="XMLID_682_">
+          <g id="XMLID_686_">
+            <linearGradient id="XMLID_42_" gradientUnits="userSpaceOnUse" x1="81.691" y1="113.559" x2="151.692" y2="113.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_689_" fill="url(#XMLID_42_)" d="M116.7 104.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_688_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M116.7 121.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_687_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M116.7 104.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_683_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_685_" d="M116.5 131.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_684_" d="M151.5 114.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_6_" gradientUnits="userSpaceOnUse" x1="81.522" y1="122.834" x2="151.647" y2="122.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_82_" fill="url(#rim_6_)" stroke="#CE8E20" stroke-miterlimit="10" d="M151.5 113.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_629_">
+        <g id="XMLID_640_">
+          <g id="XMLID_644_">
+            <linearGradient id="XMLID_45_" gradientUnits="userSpaceOnUse" x1="81.691" y1="103.559" x2="151.692" y2="103.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_647_" fill="url(#XMLID_45_)" d="M116.7 94.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_646_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M116.7 111.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_645_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M116.7 94.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_641_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_643_" d="M116.5 121.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_642_" d="M151.5 104.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_7_" gradientUnits="userSpaceOnUse" x1="81.522" y1="112.834" x2="151.647" y2="112.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_77_" fill="url(#rim_7_)" stroke="#CE8E20" stroke-miterlimit="10" d="M151.5 103.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_587_">
+        <g id="XMLID_597_">
+          <g id="XMLID_601_">
+            <linearGradient id="XMLID_46_" gradientUnits="userSpaceOnUse" x1="81.691" y1="93.559" x2="151.692" y2="93.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_604_" fill="url(#XMLID_46_)" d="M116.7 84.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_603_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M116.7 101.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_602_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M116.7 84.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_598_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_600_" d="M116.5 111.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_599_" d="M151.5 94.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_8_" gradientUnits="userSpaceOnUse" x1="81.522" y1="102.834" x2="151.647" y2="102.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_72_" fill="url(#rim_8_)" stroke="#CE8E20" stroke-miterlimit="10" d="M151.5 93.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_544_">
+        <g id="XMLID_554_">
+          <g id="XMLID_562_">
+            <linearGradient id="XMLID_47_" gradientUnits="userSpaceOnUse" x1="81.691" y1="83.559" x2="151.692" y2="83.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_565_" fill="url(#XMLID_47_)" d="M116.7 74.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_564_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M116.7 91.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_563_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M116.7 74.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_559_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_561_" d="M116.5 101.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_560_" d="M151.5 84.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_9_" gradientUnits="userSpaceOnUse" x1="81.522" y1="92.834" x2="151.647" y2="92.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_68_" fill="url(#rim_9_)" stroke="#CE8E20" stroke-miterlimit="10" d="M151.5 83.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_501_">
+        <g id="XMLID_519_">
+          <g id="XMLID_523_">
+            <linearGradient id="XMLID_48_" gradientUnits="userSpaceOnUse" x1="81.691" y1="73.559" x2="151.692" y2="73.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_526_" fill="url(#XMLID_48_)" d="M116.7 64.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_525_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M116.7 81.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_524_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M116.7 64.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_520_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_522_" d="M116.5 91.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_521_" d="M151.5 74.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_10_" gradientUnits="userSpaceOnUse" x1="81.522" y1="82.834" x2="151.647" y2="82.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_63_" fill="url(#rim_10_)" stroke="#CE8E20" stroke-miterlimit="10" d="M151.5 73.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_466_">
+        <g id="XMLID_476_">
+          <g id="XMLID_481_">
+            <linearGradient id="XMLID_49_" gradientUnits="userSpaceOnUse" x1="81.691" y1="63.559" x2="151.692" y2="63.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_484_" fill="url(#XMLID_49_)" d="M116.7 54.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_483_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M116.7 71.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_482_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M116.7 54.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_478_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_480_" d="M116.5 81.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_479_" d="M151.5 64.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_11_" gradientUnits="userSpaceOnUse" x1="81.522" y1="72.834" x2="151.647" y2="72.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_58_" fill="url(#rim_11_)" stroke="#CE8E20" stroke-miterlimit="10" d="M151.5 63.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_441_">
+        <g id="XMLID_450_">
+          <g id="XMLID_454_">
+            <linearGradient id="XMLID_50_" gradientUnits="userSpaceOnUse" x1="81.691" y1="53.559" x2="151.692" y2="53.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_457_" fill="url(#XMLID_50_)" d="M116.7 44.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_456_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M116.7 61.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_455_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M116.7 44.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_451_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_453_" d="M116.5 71.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_452_" d="M151.5 54.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_12_" gradientUnits="userSpaceOnUse" x1="81.522" y1="62.834" x2="151.647" y2="62.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_55_" fill="url(#rim_12_)" stroke="#CE8E20" stroke-miterlimit="10" d="M151.5 53.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_416_">
+        <g id="XMLID_425_">
+          <g id="XMLID_429_">
+            <linearGradient id="XMLID_51_" gradientUnits="userSpaceOnUse" x1="81.691" y1="43.559" x2="151.692" y2="43.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_432_" fill="url(#XMLID_51_)" d="M116.7 34.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_431_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M116.7 51.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_430_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M116.7 34.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_426_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_428_" d="M116.5 61.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_427_" d="M151.5 44.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_13_" gradientUnits="userSpaceOnUse" x1="81.522" y1="52.834" x2="151.647" y2="52.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_52_" fill="url(#rim_13_)" stroke="#CE8E20" stroke-miterlimit="10" d="M151.5 43.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_391_">
+        <g id="XMLID_400_">
+          <g id="XMLID_404_">
+            <linearGradient id="XMLID_52_" gradientUnits="userSpaceOnUse" x1="81.691" y1="33.559" x2="151.692" y2="33.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_407_" fill="url(#XMLID_52_)" d="M116.7 24.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_406_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M116.7 41.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_405_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M116.7 24.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_401_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_403_" d="M116.5 51.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_402_" d="M151.5 34.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_14_" gradientUnits="userSpaceOnUse" x1="81.522" y1="42.834" x2="151.647" y2="42.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_49_" fill="url(#rim_14_)" stroke="#CE8E20" stroke-miterlimit="10" d="M151.5 33.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_366_">
+        <g id="XMLID_375_">
+          <g id="XMLID_379_">
+            <linearGradient id="XMLID_53_" gradientUnits="userSpaceOnUse" x1="81.691" y1="23.559" x2="151.692" y2="23.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_382_" fill="url(#XMLID_53_)" d="M116.7 14.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_381_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M116.7 31.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_380_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M116.7 14.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_376_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_378_" d="M116.5 41.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_377_" d="M151.5 24.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_15_" gradientUnits="userSpaceOnUse" x1="81.522" y1="32.834" x2="151.647" y2="32.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_46_" fill="url(#rim_15_)" stroke="#CE8E20" stroke-miterlimit="10" d="M151.5 23.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+    </g>
+    <g id="coin_3_">
+      <g id="XMLID_650_">
+        <g id="XMLID_659_">
+          <g id="XMLID_663_">
+            <linearGradient id="XMLID_54_" gradientUnits="userSpaceOnUse" x1="2.691" y1="140.559" x2="72.692" y2="140.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_675_" fill="url(#XMLID_54_)" d="M37.7 131.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_666_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M37.7 148.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_665_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M37.7 131.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_660_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_662_" d="M37.5 158.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_661_" d="M72.5 141.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_16_" gradientUnits="userSpaceOnUse" x1="2.522" y1="149.834" x2="72.647" y2="149.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_80_" fill="url(#rim_16_)" stroke="#CE8E20" stroke-miterlimit="10" d="M72.5 140.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_609_">
+        <g id="XMLID_624_">
+          <g id="XMLID_628_">
+            <linearGradient id="XMLID_55_" gradientUnits="userSpaceOnUse" x1="2.691" y1="130.559" x2="72.692" y2="130.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_632_" fill="url(#XMLID_55_)" d="M37.7 121.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_631_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M37.7 138.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_630_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M37.7 121.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_625_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_627_" d="M37.5 148.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_626_" d="M72.5 131.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_17_" gradientUnits="userSpaceOnUse" x1="2.522" y1="139.834" x2="72.647" y2="139.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_75_" fill="url(#rim_17_)" stroke="#CE8E20" stroke-miterlimit="10" d="M72.5 130.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_572_">
+        <g id="XMLID_582_">
+          <g id="XMLID_586_">
+            <linearGradient id="XMLID_56_" gradientUnits="userSpaceOnUse" x1="2.691" y1="120.559" x2="72.692" y2="120.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_590_" fill="url(#XMLID_56_)" d="M37.7 111.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_589_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M37.7 128.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_588_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M37.7 111.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_583_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_585_" d="M37.5 138.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_584_" d="M72.5 121.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_18_" gradientUnits="userSpaceOnUse" x1="2.522" y1="129.834" x2="72.647" y2="129.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_70_" fill="url(#rim_18_)" stroke="#CE8E20" stroke-miterlimit="10" d="M72.5 120.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_530_">
+        <g id="XMLID_539_">
+          <g id="XMLID_543_">
+            <linearGradient id="XMLID_57_" gradientUnits="userSpaceOnUse" x1="2.691" y1="110.559" x2="72.692" y2="110.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_547_" fill="url(#XMLID_57_)" d="M37.7 101.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_546_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M37.7 118.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_545_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M37.7 101.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_540_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_542_" d="M37.5 128.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_541_" d="M72.5 111.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_19_" gradientUnits="userSpaceOnUse" x1="2.522" y1="119.834" x2="72.647" y2="119.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_65_" fill="url(#rim_19_)" stroke="#CE8E20" stroke-miterlimit="10" d="M72.5 110.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_487_">
+        <g id="XMLID_496_">
+          <g id="XMLID_500_">
+            <linearGradient id="XMLID_58_" gradientUnits="userSpaceOnUse" x1="2.691" y1="100.559" x2="72.692" y2="100.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_510_" fill="url(#XMLID_58_)" d="M37.7 91.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_509_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M37.7 108.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_502_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M37.7 91.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_497_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_499_" d="M37.5 118.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_498_" d="M72.5 101.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_20_" gradientUnits="userSpaceOnUse" x1="2.522" y1="109.834" x2="72.647" y2="109.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_60_" fill="url(#rim_20_)" stroke="#CE8E20" stroke-miterlimit="10" d="M72.5 100.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_444_">
+        <g id="XMLID_461_">
+          <g id="XMLID_465_">
+            <linearGradient id="XMLID_59_" gradientUnits="userSpaceOnUse" x1="2.691" y1="90.559" x2="72.692" y2="90.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_469_" fill="url(#XMLID_59_)" d="M37.7 81.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_468_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M37.7 98.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_467_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M37.7 81.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_462_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_464_" d="M37.5 108.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_463_" d="M72.5 91.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_21_" gradientUnits="userSpaceOnUse" x1="2.522" y1="99.834" x2="72.647" y2="99.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_56_" fill="url(#rim_21_)" stroke="#CE8E20" stroke-miterlimit="10" d="M72.5 90.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_409_">
+        <g id="XMLID_419_">
+          <g id="XMLID_423_">
+            <linearGradient id="XMLID_60_" gradientUnits="userSpaceOnUse" x1="2.691" y1="80.559" x2="72.692" y2="80.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_434_" fill="url(#XMLID_60_)" d="M37.7 71.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_433_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M37.7 88.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_424_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M37.7 71.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_420_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_422_" d="M37.5 98.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_421_" d="M72.5 81.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_22_" gradientUnits="userSpaceOnUse" x1="2.522" y1="89.834" x2="72.647" y2="89.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_51_" fill="url(#rim_22_)" stroke="#CE8E20" stroke-miterlimit="10" d="M72.5 80.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_367_">
+        <g id="XMLID_384_">
+          <g id="XMLID_388_">
+            <linearGradient id="XMLID_61_" gradientUnits="userSpaceOnUse" x1="2.691" y1="70.559" x2="72.692" y2="70.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_392_" fill="url(#XMLID_61_)" d="M37.7 61.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_390_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M37.7 78.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_389_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M37.7 61.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_385_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_387_" d="M37.5 88.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_386_" d="M72.5 71.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_23_" gradientUnits="userSpaceOnUse" x1="2.522" y1="79.834" x2="72.647" y2="79.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_47_" fill="url(#rim_23_)" stroke="#CE8E20" stroke-miterlimit="10" d="M72.5 70.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_341_">
+        <g id="XMLID_350_">
+          <g id="XMLID_354_">
+            <linearGradient id="XMLID_62_" gradientUnits="userSpaceOnUse" x1="2.691" y1="60.559" x2="72.692" y2="60.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_357_" fill="url(#XMLID_62_)" d="M37.7 51.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_356_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M37.7 68.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_355_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M37.7 51.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_351_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_353_" d="M37.5 78.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_352_" d="M72.5 61.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_24_" gradientUnits="userSpaceOnUse" x1="2.522" y1="69.834" x2="72.647" y2="69.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_43_" fill="url(#rim_24_)" stroke="#CE8E20" stroke-miterlimit="10" d="M72.5 60.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_316_">
+        <g id="XMLID_325_">
+          <g id="XMLID_329_">
+            <linearGradient id="XMLID_63_" gradientUnits="userSpaceOnUse" x1="2.691" y1="50.559" x2="72.692" y2="50.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_332_" fill="url(#XMLID_63_)" d="M37.7 41.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_331_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M37.7 58.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_330_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M37.7 41.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_326_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_328_" d="M37.5 68.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_327_" d="M72.5 51.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_25_" gradientUnits="userSpaceOnUse" x1="2.522" y1="59.834" x2="72.647" y2="59.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_40_" fill="url(#rim_25_)" stroke="#CE8E20" stroke-miterlimit="10" d="M72.5 50.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+    </g>
+    <g id="coin_4_">
+      <g id="XMLID_1039_">
+        <g id="XMLID_1048_">
+          <g id="XMLID_1052_">
+            <linearGradient id="XMLID_64_" gradientUnits="userSpaceOnUse" x1="46.691" y1="159.559" x2="116.692" y2="159.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_1055_" fill="url(#XMLID_64_)" d="M81.7 150.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_1054_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M81.7 167.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_1053_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M81.7 150.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_1049_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_1051_" d="M81.5 177.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_1050_" d="M116.5 160.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_26_" gradientUnits="userSpaceOnUse" x1="46.522" y1="168.834" x2="116.647" y2="168.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_125_" fill="url(#rim_26_)" stroke="#CE8E20" stroke-miterlimit="10" d="M116.5 159.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_1014_">
+        <g id="XMLID_1023_">
+          <g id="XMLID_1027_">
+            <linearGradient id="XMLID_65_" gradientUnits="userSpaceOnUse" x1="46.691" y1="149.559" x2="116.692" y2="149.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_1030_" fill="url(#XMLID_65_)" d="M81.7 140.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_1029_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M81.7 157.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_1028_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M81.7 140.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_1024_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_1026_" d="M81.5 167.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_1025_" d="M116.5 150.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_27_" gradientUnits="userSpaceOnUse" x1="46.522" y1="158.834" x2="116.647" y2="158.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_122_" fill="url(#rim_27_)" stroke="#CE8E20" stroke-miterlimit="10" d="M116.5 149.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_989_">
+        <g id="XMLID_998_">
+          <g id="XMLID_1002_">
+            <linearGradient id="XMLID_66_" gradientUnits="userSpaceOnUse" x1="46.691" y1="139.559" x2="116.692" y2="139.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_1005_" fill="url(#XMLID_66_)" d="M81.7 130.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_1004_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M81.7 147.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_1003_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M81.7 130.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_999_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_1001_" d="M81.5 157.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_1000_" d="M116.5 140.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_28_" gradientUnits="userSpaceOnUse" x1="46.522" y1="148.834" x2="116.647" y2="148.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_119_" fill="url(#rim_28_)" stroke="#CE8E20" stroke-miterlimit="10" d="M116.5 139.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_964_">
+        <g id="XMLID_973_">
+          <g id="XMLID_977_">
+            <linearGradient id="XMLID_67_" gradientUnits="userSpaceOnUse" x1="46.691" y1="129.559" x2="116.692" y2="129.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_980_" fill="url(#XMLID_67_)" d="M81.7 120.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_979_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M81.7 137.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_978_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M81.7 120.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_974_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_976_" d="M81.5 147.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_975_" d="M116.5 130.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_29_" gradientUnits="userSpaceOnUse" x1="46.522" y1="138.834" x2="116.647" y2="138.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_116_" fill="url(#rim_29_)" stroke="#CE8E20" stroke-miterlimit="10" d="M116.5 129.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_939_">
+        <g id="XMLID_948_">
+          <g id="XMLID_952_">
+            <linearGradient id="XMLID_68_" gradientUnits="userSpaceOnUse" x1="46.691" y1="119.559" x2="116.692" y2="119.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_955_" fill="url(#XMLID_68_)" d="M81.7 110.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_954_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M81.7 127.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_953_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M81.7 110.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_949_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_951_" d="M81.5 137.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_950_" d="M116.5 120.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_30_" gradientUnits="userSpaceOnUse" x1="46.522" y1="128.834" x2="116.647" y2="128.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_113_" fill="url(#rim_30_)" stroke="#CE8E20" stroke-miterlimit="10" d="M116.5 119.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_914_">
+        <g id="XMLID_923_">
+          <g id="XMLID_927_">
+            <linearGradient id="XMLID_69_" gradientUnits="userSpaceOnUse" x1="46.691" y1="109.559" x2="116.692" y2="109.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_930_" fill="url(#XMLID_69_)" d="M81.7 100.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_929_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M81.7 117.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_928_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M81.7 100.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_924_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_926_" d="M81.5 127.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_925_" d="M116.5 110.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_31_" gradientUnits="userSpaceOnUse" x1="46.522" y1="118.834" x2="116.647" y2="118.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_110_" fill="url(#rim_31_)" stroke="#CE8E20" stroke-miterlimit="10" d="M116.5 109.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_889_">
+        <g id="XMLID_898_">
+          <g id="XMLID_902_">
+            <linearGradient id="XMLID_70_" gradientUnits="userSpaceOnUse" x1="46.691" y1="99.559" x2="116.692" y2="99.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_905_" fill="url(#XMLID_70_)" d="M81.7 90.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_904_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M81.7 107.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_903_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M81.7 90.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_899_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_901_" d="M81.5 117.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_900_" d="M116.5 100.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_32_" gradientUnits="userSpaceOnUse" x1="46.522" y1="108.834" x2="116.647" y2="108.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_107_" fill="url(#rim_32_)" stroke="#CE8E20" stroke-miterlimit="10" d="M116.5 99.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_864_">
+        <g id="XMLID_873_">
+          <g id="XMLID_877_">
+            <linearGradient id="XMLID_71_" gradientUnits="userSpaceOnUse" x1="46.691" y1="89.559" x2="116.692" y2="89.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_880_" fill="url(#XMLID_71_)" d="M81.7 80.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_879_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M81.7 97.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_878_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M81.7 80.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_874_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_876_" d="M81.5 107.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_875_" d="M116.5 90.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_33_" gradientUnits="userSpaceOnUse" x1="46.522" y1="98.834" x2="116.647" y2="98.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_104_" fill="url(#rim_33_)" stroke="#CE8E20" stroke-miterlimit="10" d="M116.5 89.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_839_">
+        <g id="XMLID_848_">
+          <g id="XMLID_852_">
+            <linearGradient id="XMLID_72_" gradientUnits="userSpaceOnUse" x1="46.691" y1="79.559" x2="116.692" y2="79.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_855_" fill="url(#XMLID_72_)" d="M81.7 70.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_854_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M81.7 87.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_853_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M81.7 70.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_849_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_851_" d="M81.5 97.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_850_" d="M116.5 80.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_34_" gradientUnits="userSpaceOnUse" x1="46.522" y1="88.834" x2="116.647" y2="88.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_101_" fill="url(#rim_34_)" stroke="#CE8E20" stroke-miterlimit="10" d="M116.5 79.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_814_">
+        <g id="XMLID_823_">
+          <g id="XMLID_827_">
+            <linearGradient id="XMLID_73_" gradientUnits="userSpaceOnUse" x1="46.691" y1="69.559" x2="116.692" y2="69.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_830_" fill="url(#XMLID_73_)" d="M81.7 60.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_829_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M81.7 77.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_828_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M81.7 60.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_824_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_826_" d="M81.5 87.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_825_" d="M116.5 70.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_35_" gradientUnits="userSpaceOnUse" x1="46.522" y1="78.834" x2="116.647" y2="78.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_98_" fill="url(#rim_35_)" stroke="#CE8E20" stroke-miterlimit="10" d="M116.5 69.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_789_">
+        <g id="XMLID_798_">
+          <g id="XMLID_802_">
+            <linearGradient id="XMLID_74_" gradientUnits="userSpaceOnUse" x1="46.691" y1="59.559" x2="116.692" y2="59.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_805_" fill="url(#XMLID_74_)" d="M81.7 50.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_804_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M81.7 67.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_803_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M81.7 50.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_799_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_801_" d="M81.5 77.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_800_" d="M116.5 60.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_36_" gradientUnits="userSpaceOnUse" x1="46.522" y1="68.834" x2="116.647" y2="68.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_95_" fill="url(#rim_36_)" stroke="#CE8E20" stroke-miterlimit="10" d="M116.5 59.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_756_">
+        <g id="XMLID_773_">
+          <g id="XMLID_777_">
+            <linearGradient id="XMLID_75_" gradientUnits="userSpaceOnUse" x1="46.691" y1="49.559" x2="116.692" y2="49.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_780_" fill="url(#XMLID_75_)" d="M81.7 40.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_779_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M81.7 57.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_778_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M81.7 40.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_774_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_776_" d="M81.5 67.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_775_" d="M116.5 50.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_37_" gradientUnits="userSpaceOnUse" x1="46.522" y1="58.834" x2="116.647" y2="58.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_91_" fill="url(#rim_37_)" stroke="#CE8E20" stroke-miterlimit="10" d="M116.5 49.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_724_">
+        <g id="XMLID_739_">
+          <g id="XMLID_743_">
+            <linearGradient id="XMLID_76_" gradientUnits="userSpaceOnUse" x1="46.691" y1="39.559" x2="116.692" y2="39.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_746_" fill="url(#XMLID_76_)" d="M81.7 30.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_745_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M81.7 47.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_744_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M81.7 30.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_740_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_742_" d="M81.5 57.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_741_" d="M116.5 40.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_38_" gradientUnits="userSpaceOnUse" x1="46.522" y1="48.834" x2="116.647" y2="48.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_88_" fill="url(#rim_38_)" stroke="#CE8E20" stroke-miterlimit="10" d="M116.5 39.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_696_">
+        <g id="XMLID_705_">
+          <g id="XMLID_710_">
+            <linearGradient id="XMLID_77_" gradientUnits="userSpaceOnUse" x1="46.691" y1="29.559" x2="116.692" y2="29.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_713_" fill="url(#XMLID_77_)" d="M81.7 20.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_712_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M81.7 37.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_711_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M81.7 20.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_706_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_709_" d="M81.5 47.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_708_" d="M116.5 30.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_39_" gradientUnits="userSpaceOnUse" x1="46.522" y1="38.834" x2="116.647" y2="38.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_84_" fill="url(#rim_39_)" stroke="#CE8E20" stroke-miterlimit="10" d="M116.5 29.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_654_">
+        <g id="XMLID_671_">
+          <g id="XMLID_676_">
+            <linearGradient id="XMLID_78_" gradientUnits="userSpaceOnUse" x1="46.691" y1="19.559" x2="116.692" y2="19.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_679_" fill="url(#XMLID_78_)" d="M81.7 10.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+            <path id="XMLID_678_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M81.7 27.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_677_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M81.7 10.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1 15.7-9.1 35-9.1z"/>
+          </g>
+          <g id="XMLID_672_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_674_" d="M81.5 37.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_673_" d="M116.5 20.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_41_" gradientUnits="userSpaceOnUse" x1="46.522" y1="28.834" x2="116.647" y2="28.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_79_" fill="url(#rim_41_)" stroke="#CE8E20" stroke-miterlimit="10" d="M116.5 19.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1v-9.7c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+      <g id="XMLID_611_">
+        <g id="XMLID_620_">
+          <g id="XMLID_633_">
+            <linearGradient id="XMLID_79_" gradientUnits="userSpaceOnUse" x1="46.691" y1="9.559" x2="116.692" y2="9.559">
+              <stop offset="0" stop-color="#FFBB17"/>
+              <stop offset=".5" stop-color="#FFCE17"/>
+              <stop offset="1" stop-color="#FFF0A6"/>
+            </linearGradient>
+            <path id="XMLID_636_" fill="url(#XMLID_79_)" d="M81.7.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1S62.4.5 81.7.5z"/>
+            <path id="XMLID_635_" opacity=".25" fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M81.7 17.6c-20 0-34-4.2-34-8.1 0-3.8 14-8.1 34-8.1s34 4.2 34 8.1c0 3.9-14 8.1-34 8.1z"/>
+            <path id="XMLID_634_" fill="none" stroke="#CE8E20" stroke-miterlimit="10" d="M81.7.5c19.3 0 35 4.1 35 9.1s-15.7 9.1-35 9.1-35-4.1-35-9.1S62.4.5 81.7.5z"/>
+          </g>
+          <g id="XMLID_621_" fill="#CE8E20" stroke="#CE8E20" stroke-miterlimit="10">
+            <path id="XMLID_623_" d="M81.5 27.3c-19.3 0-35-4.1-35-9.1v1c0 5 15.7 9.1 35 9.1s35-4.1 35-9.1v-1c0 5-15.7 9.1-35 9.1z"/>
+            <path id="XMLID_622_" d="M116.5 10.3c.1-.2.1-.5.1-.7l-.1-.2v.9z"/>
+          </g>
+          <linearGradient id="rim_42_" gradientUnits="userSpaceOnUse" x1="46.522" y1="18.834" x2="116.647" y2="18.834">
+            <stop offset="0" stop-color="#FFDE17"/>
+            <stop offset=".1" stop-color="#FFF0A6"/>
+            <stop offset=".2" stop-color="#FEF7B8"/>
+            <stop offset=".3" stop-color="#FFF0A6"/>
+            <stop offset=".5" stop-color="#FFCE17"/>
+            <stop offset=".7" stop-color="#FFBB17"/>
+            <stop offset=".8" stop-color="#FCAF1E"/>
+            <stop offset=".9" stop-color="#FFBB17"/>
+            <stop offset="1" stop-color="#FFCE17"/>
+          </linearGradient>
+          <path id="rim_74_" fill="url(#rim_42_)" stroke="#CE8E20" stroke-miterlimit="10" d="M116.5 9.4v9.8c0 5-15.7 9.1-35 9.1s-35-4.1-35-9.1V9.6c0 5 15.9 9.1 35.2 9.1 19.3 0 34.9-4.1 34.9-9.1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

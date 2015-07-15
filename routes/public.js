@@ -22,7 +22,7 @@ function handleUserState (req) {
 app.get('/', function (req, res) {
     handleUserState(req);
     //console.log(renderData);
-    res.render('index', renderData);
+    res.render('main', renderData);
 });
 
 app.get('/pricing', function (req, res) {

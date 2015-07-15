@@ -12,6 +12,9 @@
 
 .page__section--main-content {
     height: auto;
+    background-color: $theme-color__accent;
+    overflow: hidden;
+    padding-bottom: $navbar__height;
 }
 
 .page__section--docs-overview {

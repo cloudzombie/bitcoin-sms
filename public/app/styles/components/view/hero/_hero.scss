@@ -1,3 +1,6 @@
+$hero__height: $hero__height;
+$hero__primary-image-height: $hero__height / 2;
+
 .hero {
     height: $hero__height;
     max-height: $hero__height;
@@ -10,10 +13,7 @@
     color: $font-color__secondary-text--white-on-dark-background;
 
     .hero__backdrop {
-        position: absolute;
-        top: 0;
-        left: 0;
-        z-index: 0;
+        position: relative;
         width: 100%;
         height: 100%;
         background-image: linear-gradient(
@@ -30,4 +30,16 @@
         //margin-top: -($hero__height/2);
         //margin-left: -1 * calc(100% / 2);
     }
+
+    .hero__svg-container {
+        width: $hero__primary-image-height;
+        height: $hero__primary-image-height;
+        position: absolute;
+        left: 15%;
+        top: 50%;
+        margin-top: -($hero__primary-image-height / 2);
+    }
+
+
+
 }

@@ -7,21 +7,61 @@
 
 .intro {
 
+  color: $font-color__primary-text--white-on-dark-background;
+
   .heading {
-    color: $font-color__secondary-text--black-on-light-background;
+    color: $font-color__primary-text--white-on-dark-background;
   }
 
-  .panel__img--instruction-1 {
-    background-image: url('/assets/img/intro--step-1.svg');
+  .hero__svg {
+    #bkg-circle {
+
+      fill: red;
+    }
   }
-  .panel__img--instruction-2 {
-    background-image: url('/assets/img/intro--step-2.svg');
-  }
-  .panel__img--instruction-3 {
-    background-image: url('/assets/img/intro--step-3.svg');
-  }
-  .panel__img--instruction-4 {
-    background-image: url('/assets/img/intro--step-4.svg');
+
+
+  .panel {
+
+    margin: 1em auto;
+
+    .panel__content--instruction-1 {
+      background-image: url('/assets/svg/cloud.svg');
+      background-size: 80%;
+    }
+
+    .panel__content--instruction-2 {
+      background-image: url('/assets/svg/envelope.svg');
+      background-size: 70%;
+    }
+
+    .panel__content--instruction-3 {
+      background-image: url('/assets/svg/question-mark.svg');
+      background-size: 50%;
+    }
+
+    .panel__content--instruction-4 {
+      background-image: url('/assets/svg/coin-stack.svg');
+      background-size: 50%;
+    }
+
+    .panel__content {
+      @extend %background-image-display;
+      width: 100%;
+    }
+
+    .panel__item-label {
+      flex: 0;
+      font-size: 1em;
+    }
+
+    .icon-fab {
+      width: $icon-fab__size;
+      min-width: $icon-fab__size;
+      height: $icon-fab__size;
+      min-height: $icon-fab__size;
+      flex: 0;
+    }
   }
 
 }

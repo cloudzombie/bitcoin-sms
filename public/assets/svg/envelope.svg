@@ -1,0 +1,20 @@
+<svg id="envelope-container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 249 160">
+  <g id="envelope">
+    <path id="bottom-fold" fill="#BBB" d="M.4 160l124-84.4 124 84.4z"/>
+    <g id="right-fold">
+      <g id="XMLID_41_">
+        <path id="XMLID_49_" fill="#D6D6D6" d="M248.4 159.9l-125-80L248.4 0z"/>
+      </g>
+    </g>
+    <g id="left-fold_2_">
+      <g id="XMLID_45_">
+        <path id="XMLID_51_" fill="#F0F0F0" d="M.4 159.9l125-80L.4 0z"/>
+      </g>
+    </g>
+    <g id="top-fold">
+      <g id="XMLID_417_">
+        <path id="XMLID_423_" fill="#FEFEFE" d="M.4 0l124 94.5L248.4 0z"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="hero-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+  <g id="bkg-circle">
+    <circle id="XMLID_1_" fill="#FF9400" cx="75" cy="75" r="75"/>
+  </g>
+  <g id="signal">
+    <path id="sig-line--1" fill="none" stroke="#FFF" stroke-width="4" stroke-miterlimit="10" d="M53.8 77.8c11.7-11.7 30.7-11.7 42.4 0"/>
+    <path id="sig-line--2" fill="none" stroke="#FFF" stroke-width="4" stroke-miterlimit="10" d="M46.7 70.7c15.6-15.6 40.9-15.6 56.6 0"/>
+    <path id="sig-line--3" fill="none" stroke="#FFF" stroke-width="4" stroke-miterlimit="10" d="M39.6 63.6c19.5-19.5 51.2-19.5 70.7 0"/>
+    <path id="sig-line--4" fill="none" stroke="#FFF" stroke-width="4" stroke-miterlimit="10" d="M32.6 56.6c23.4-23.4 61.4-23.4 84.9 0"/>
+    <circle id="sig-line--base_1_" fill="#FFF" cx="75.5" cy="91.5" r="10.4"/>
+  </g>
+</svg>
